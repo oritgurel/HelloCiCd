@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "784096444173",
+    "project_id": "cicd-workshop-45539",
+    "storage_bucket": "cicd-workshop-45539.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:784096444173:android:518056f9ca0ae47d457a44",
+        "android_client_info": {
+          "package_name": "com.workshop3.hellocicd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "784096444173-g8uvsitkm3kresc7mem3435cipfrig58.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEpuXw9PZHZ2jyrlUVSNKIzpEnZmFKVLw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "784096444173-g8uvsitkm3kresc7mem3435cipfrig58.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
